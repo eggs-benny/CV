@@ -14,23 +14,32 @@ I'm a career chanA sentence about who and what you are. Then a sentence about wh
 
 ## Work Experience
 
-**Ogilvy Melbourne** (May 2019 - January 2021)  
+**Ogilvy Melbourne** (May 2019 - January 2022)  
 _Senior Account Director_
 
-- Any experience relevent to software development
+- 2IC in charge of day-to-day running of AAMI, Australia's largest insurance brand.
+- 
+- My final campaign was awarded a Cannes Gold Lion (aka the Oscars of advertising) in the Creative Data category.
 
-**Ogilvy Melbourne** (May 2019 - January 2021)  
-_Senior Account Director_
+**Freelance & Relocation** (January 2018 - May 2019)  
+_Account Director_
+- Fast learning, problem solving and relationship management are all must-haves for any freelancer. These are all skills I developed over this period.
 
-- Any experience relevent to software development
+**giffgaff** (May 2017 - Dec 2017)  
+_Brand & Advertising Manager_
 
-**Ogilvy Melbourne** (May 2019 - January 2021)  
-_Senior Account Director_
+
+**The Outfit** (May 2014 - May 2017)  
+_Brand & Advertising Manager_
 
 - Any experience relevent to software development
 
 ## Skills
-
+- Quick learner
+- Used to responsibility
+- Well-rounded communicator
+- Cool under pressure...
+- 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
@@ -62,24 +71,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (August 2022 - December 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A 16-week bootcamp, designed to make students oven-ready for junior dev roles.
+Skills developed include:
+- Language agnostic teaching, but developing Ruby, Rails & Javascript to a high standard
+- Test Driven Development & RSpec
+- Object-oriented design
+- Pair programming - requiring development of teamwork & communication skills, and to supercharge effective problem-solving
 
 #### University of Nottingham (September 2006 - June 2009)
 
 - BSc Psychology(Hons)
 - Grade: 2:1
-- Other cool stuff
+- XX Dissertation on memes before memes were even a thing XX
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-Running - including Melbourne Marathon
-Any cool stuff that makes you a super part of a software development team
+Running - I ran 1000km in 2021 to stave off the lockdown pounds, and the Melbourne Marathon in 2019
+Baking - (sweet & savory) & Fermenting - (Kimchee & Kombucha) **I'm in my 30s**
+XXX
