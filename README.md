@@ -6,34 +6,28 @@ Since August 2022 I have been studying at Makers Academy, a bootcamp for develop
 I feel that my that the discipline, responsibility and attention to detail required from my career so far, paired with my natural empathy, problem-solving, logic skills provide a good basis to have as a junior developer who will flourish in any environment. I'm especially looking for a role with strong employee support and mentorship.
 
 
-Then a sentence about what you've achieved.
-
-And then a sentence about what excites you about tech.
-
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | X, Y, Z |
-| **Makers Student Directory** | An app summarising new Makers students | Ruby |
-| **Wedding Website**          | A website for my upcoming wedding next July | HTML | 
+| **Makers Student Directory** | A console-app summarising new Makers students | Ruby |
 
 ## Work Experience
 
 **Ogilvy Melbourne** (May 2019 - January 2022)  
 _Senior Account Director_
 
-- Day-to-day running of AAMI, Australia's largest insurance brand including key sponsorship, social and road safety workstreams.
-- My final campaign was awarded a Cannes Gold Lion (aka the Oscars of advertising) in the Creative Data category.
+- Responsible for management of the AAMI brand, Australia's largest insurance brand including all sponsorship, social and road safety workstreams.
+- A recent campaign was awarded a Cannes Gold Lion (the Oscars of advertising) in the Creative Data category.
 
 **Freelance & Relocation to Australia** (January 2018 - May 2019)  
 _Account Director_
-- Fast learning, problem solving and relationship management are all must-haves for any freelancer. These are all skills I developed over this period.
+- Roles at agencies in the UK & Australia
 
 **giffgaff - London** (May 2017 - Dec 2017)  
 _Brand & Advertising Manager_
-
+- 
 
 **The Outfit - London** (May 2014 - May 2017)  
 _Account Manager to Account Director_
@@ -57,19 +51,20 @@ Entrepreneurial Mindset
 -What was the result?
 
 **Well-rounded communicator**
-While at Ogilvy Melboune, I headed up AAMI’s annual major sponsorship of the AFL. Last year I led the strategy, development & production of a multi-million dollar integrated TV campaign. Building on previous partnership experience, this role required delicate and collaborative stakeholder communication skills. We delivered our most effective season to date, with our route to success driven by me ensuring all stakeholders work together, while their needs were being heard.
+While at Ogilvy Melboune, I headed up AAMI’s annual major sponsorship of the AFL. I led the strategy, development & production of annual multi-million dollar integrated TV campaigns. Building on previous partnership experience, this role required delicate and collaborative stakeholder communication skills. We delivered our most effective season to date last year, with our route to success driven by me ensuring all stakeholders talk & work together, and ensuring all parties' needs were met.
 
 **Delivering Business Efficiency**
-In leading AAMI’s social media, I spear-headed a move away from a high-churn, low-impact content calendar to a quarterly briefing approach, ensuring each brief delivers against overarching KPIs. This created value for my clients and fewer, more interesting projects for my internal teams, reducing team impact and fatigue. It also delivered consistently better results over 3 years, with one recent campaign generating one of the strongest research results of all time
-
+In leading AAMI’s social media, I spear-headed a move away from a high-churn, low-impact content calendar to a quarterly briefing approach, ensuring every campaign delivers against their overarching KPIs. This created value for my clients and fewer, more interesting projects for my internal teams, reducing team impact and fatigue. It also delivered consistently improved results over 3 years, with high-scoring nationwide & sector-leading results.
 
 Cool under pressure
 McDonald’s ‘McCafé Moments’ was a highly successful campaign that I led from inception. Originally planned as a 1-year campaign, we delivered so strongly against its KPIs, on a comparatively shoestring budget, that we ensured a 2nd year and a lucrative relationship opening up future briefs. We built a low cost-per-deliverable TVC production model that allowed us to create nearly 70 hyper-contextual spots over the campaign period. The campaign went on to win gold at the 2015 MediaWeek awards.
 
 
 Delivering Innovation
+Throughout my career I've been interested in delivering innovative campaigns for my clients. Whether it's creating live-cross TV ad-breaks on Channel 4 for Assassin's Creed and Sam Smith or data-driven road safety campaigns to reduce driver fatigue.....
+**
 Channel 4, my main client while at the Outfit, is at TV's cutting edge. So we consistently needed to deliver ground-breaking campaigns in their partnership advertising space. Amongst other innovative projects, I delivered several live ad-break takeovers, including a death-defying 100ft leap to launch the Assassin’s Creed movie and broadcasting a live Sam Smith gig during an ad-break. As these all carried huge risks, they pushed my organizational skills to the limit as we prepared for every potential outcome.
-
+**
 
 
 Fast learner
@@ -131,3 +126,8 @@ That in some arguable way make you a better software developer or well-rounded p
 Running - I ran 1000km in 2021 to stave off the lockdown pounds, and the Melbourne Marathon in 2019
 Baking - (sweet & savory) & Fermenting - (Kimchee & Kombucha) **I'm in my 30s**
 XXX
+
+## Get in touch
+Github
+Codewars
+LinkedIn
