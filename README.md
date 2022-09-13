@@ -5,7 +5,7 @@ I'm looking for a new challenge as a junior developer, after spending the first 
 
 The discipline, responsibility and attention to detail required from my career so far, paired with my natural empathy, problem-solving & logic skills provide a good basis to be a junior developer who will be able to learn quickly and flourish in any environment. I'm especially looking for a role with strong employee support and mentorship.
 
-Since August 2022 I have been studying at Makers Academy, a bootcamp for developers, where I have been learning fundamentals of software development, building practical skills through projects and working with other students.
+Since August 2022 I have been studying at Makers, a bootcamp for developers, where I have been learning fundamentals of software development, building practical skills through projects and working with other students.
 
 
 ## Projects
@@ -17,10 +17,6 @@ Since August 2022 I have been studying at Makers Academy, a bootcamp for develop
 
 
 ## Skills
-- Quick learner
-- Used to responsibility
-- Well-rounded communicator
-- Cool under pressure...
 Well-rounded communicator
 Entrepreneurial Mindset
 
@@ -96,12 +92,12 @@ Skills developed include:
 - Pair programming - requiring development of teamwork & communication skills, and to supercharge effective problem-solving
 
 #### University of Nottingham (September 2006 - June 2009)
-
 - BSc Psychology(Hons)
 - Grade: 2:1
 
-## Hobbies
-Long-distance running, travelling, baking & fermenting.
+## Hobbies & Life Skills
+French (conversational)
+Running, travelling, baking & fermenting.
 
 ## Get in touch
-Github // Linkedin // Codewars
+[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330)
