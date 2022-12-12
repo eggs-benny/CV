@@ -3,9 +3,6 @@
 ## Get in touch
 [Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
-## Stack
-![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,git,bash,heroku,jest&perline=4&theme=dark)
-
 ## About Me
 Supported by a 10+ year client-facing career in creative advertising and a graduate from Makers, one of the most distinguished bootcamps in the UK.
 
@@ -17,16 +14,19 @@ From August - December 2022 I studied at Makers, a bootcamp for developers, wher
 
 Read on for more, or find my PDF CV here.
 
+## Stack
+![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,git,bash,heroku,jest&perline=4&theme=dark)
 
 ## Projects
 
 | Name | Description | Discover | Stack | Build Time / Group |
 |---------------|-----------|------------|----|----------|
-| **votewatch** | A mobile app aimed at making UK politics more transparent | repo // screen record | Sequelize * Express * React Native * Node.JS | 8 days x 6 people |
-| **grumblebook** | A facebook clone where you can grumble with friends | repo | MongoDB / Express / React / Node JS | 10 days x 6 people |
-| **chitter** | A clone of twitter, demonstrating  | repo | ORM, Express, Ruby, CSS, HTML | 3 days x solo |
-| **bank app** | A solo tech test, demonstrating clean code | repo | Node JS | 2 days x solo |
-| **gilded rose** | A classic tech test, focused on polymorphic refactoring | repo | Node JS | 1 day x solo |
+| **votewatch** | An iOS & Android app aimed at making UK politics more transparent. leveraging the House of Commons API | [app demo](https://youtu.be/jNPUt79UpsA?t=134), [repo](https://github.com/tomallens/votewatch) | React Native, Expo, PostgreSQL, Sequelize, Express, Node.JS | 8 days x 6 people |
+| **grumblebook** | A facebook clone where you can grumble with friends | [repo](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) | React, MongoDB, Mongoose, Express, Node JS, Cypress, Firebase | 10 days x 6 people |
+| **Chittr** | A clone of twitter built in Ruby | [repo](https://github.com/eggs-benny/chitter-challenge) | Ruby, ORM, Rails, PosgreSQL, CSS, HTML | 3 days x solo |
+| **Bank App Tech Test** | A solo tech test, demonstrating clean code | [repo](https://github.com/eggs-benny/bank_tech_test) | Node.JS, Jest | 2 days x solo |
+| **The Gilded Rose** | A classic tech test, focused on polymorphic refactoring | [repo](https://github.com/eggs-benny/GildedRose-Refactoring-Kata) | Node.JS, Jest | 1 day x solo |
+| **Bowling Scorecard** | A bowling scorecard in 2 languages | [JS repo](https://github.com/eggs-benny/bowling-challenge), [Ruby repo](https://github.com/eggs-benny/bowling-challenge-ruby) | Node.JS, Ruby | 2 days each x solo |
 
 
 ## Skills
