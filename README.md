@@ -1,11 +1,12 @@
 ## Benedict Smith
-
-## Contact
-LinkedIn | Email | Phone | 
+ 
 ## Get in touch
 [Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447851784011?text=I%20saw%20your%20Github%20and%20...)
 
-## Summary
+## Stack
+[![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,nodejs,ruby,html,css,git)](https://skills.thijs.gg)
+
+## About Me
 Supported by a 10+ year client-facing career in creative advertising and a graduate from Makers, one of the most distinguished bootcamps in the UK.
 
 I'm looking for a new challenge as a full-stack engineer, after spending the first part of my career working to a senior level at ad agencies across two continents. I'm intrinsically motivated by the everyday **problem-solving** required to be developer, but especially driven to create user-centric programs that will improve people's lives.
@@ -20,7 +21,7 @@ Read on for more, or find my PDF CV here.
 ## Projects
 
 | Name | Description | Discover | Stack | Build Time / Group |
-| --------------- | ----------- | ------------| ----------|
+|---------------|-----------|------------|----|----------|
 | **votewatch** | A mobile app aimed at making UK politics more transparent | repo // screen record | Sequelize * Express * React Native * Node.JS | 8 days x 6 people |
 | **grumblebook** | A facebook clone where you can grumble with friends | repo | MongoDB / Express / React / Node JS | 10 days x 6 people |
 | **chitter** | A clone of twitter, demonstrating  | repo | ORM, Express, Ruby, CSS, HTML | 3 days x solo |
