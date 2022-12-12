@@ -1,10 +1,10 @@
 ## Benedict Smith
  
 ## Get in touch
-[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447851784011?text=I%20saw%20your%20Github%20and%20...)
+[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## Stack
-[![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,nodejs,ruby,html,css,git)](https://skills.thijs.gg)
+![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,git,bash,heroku,jest&perline=4&theme=dark)
 
 ## About Me
 Supported by a 10+ year client-facing career in creative advertising and a graduate from Makers, one of the most distinguished bootcamps in the UK.
