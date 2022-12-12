@@ -1,24 +1,35 @@
 ## Benedict Smith
-Student at one of the most distinguished & discerning bootcamps in the world, supported by a 10+ year client-facing career in advertising.
 
-I'm looking for a new challenge as a junior developer, after spending the first part of my career working to a senior level at ad agencies across two continents. I'm intrinsically rewarded by the everyday problem-solving required to be developer, but especially motivated to create user-centric programs that will improve people's lives.
+## Contact
+LinkedIn | Email | Phone | 
+## Get in touch
+[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447851784011?text=I%20saw%20your%20Github%20and%20...)
 
-The discipline, responsibility and attention to detail required from my career so far, paired with my natural empathy, problem-solving & logic skills provide a good basis to be a junior developer who will be able to learn quickly and flourish in any environment. I'm especially looking for a role with strong employee support and mentorship.
+## Summary
+Supported by a 10+ year client-facing career in creative advertising and a graduate from Makers, one of the most distinguished bootcamps in the UK.
 
-Since August 2022 I have been studying at Makers, a bootcamp for developers, where I have been learning fundamentals of software development, building practical skills through projects and working with other students.
+I'm looking for a new challenge as a full-stack engineer, after spending the first part of my career working to a senior level at ad agencies across two continents. I'm intrinsically motivated by the everyday **problem-solving** required to be developer, but especially driven to create user-centric programs that will improve people's lives.
+
+The discipline, responsibility and attention to detail required from my career so far, paired with my natural empathy, **problem-solving** & logic provide a good basis to be a junior developer who will be able to learn quickly and flourish in any environment. I'm especially looking for a role with strong employee support and mentorship.
+
+From August - December 2022 I studied at Makers, a bootcamp for developers, where I have learnt the fundamentals of software development, building practical skills through projects, and working with other students in pairs & groups to simulate real-life working scenarios.
+
+Read on for more, or find my PDF CV here.
 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do X. | X, Y, Z |
-| **Makers Student Directory** | A console-app summarising new Makers students | Ruby |
+| Name | Description | Discover | Stack | Build Time / Group |
+| --------------- | ----------- | ------------| ----------|
+| **votewatch** | A mobile app aimed at making UK politics more transparent | repo // screen record | Sequelize * Express * React Native * Node.JS | 8 days x 6 people |
+| **grumblebook** | A facebook clone where you can grumble with friends | repo | MongoDB / Express / React / Node JS | 10 days x 6 people |
+| **chitter** | A clone of twitter, demonstrating  | repo | ORM, Express, Ruby, CSS, HTML | 3 days x solo |
+| **bank app** | A solo tech test, demonstrating clean code | repo | Node JS | 2 days x solo |
+| **gilded rose** | A classic tech test, focused on polymorphic refactoring | repo | Node JS | 1 day x solo |
 
 
 ## Skills
-Well-rounded communicator
-Entrepreneurial Mindset
+
 
 -What was the situation/task? (ST)
 
@@ -96,8 +107,5 @@ Skills developed include:
 - Grade: 2:1
 
 ## Hobbies & Life Skills
-French (conversational)
+French
 Running, travelling, baking & fermenting.
-
-## Get in touch
-[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330)
