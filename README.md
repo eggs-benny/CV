@@ -108,3 +108,5 @@ Skills developed include:
 - :fr: French speaker and general francophile - I'm even getting married in France this year
 - :game_die: Keen gamer with both board & video games, especially strategy games
 - :garlic: I enjoy slow food, especially fermenting, pickling and baking
+
+![Ben's github stats](https://github-readme-stats.vercel.app/api?username=eggs-benny)
