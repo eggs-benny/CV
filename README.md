@@ -29,39 +29,34 @@ Read on for more, or find my PDF CV here.
 
 ## Skills
 
+#### Well-rounded project management
+_As a developer_
 
--What was the situation/task? (ST)
+_In my career_ I headed up AAMI’s sponsorships at Ogilvy Melbourne, notably their annual, multi-million dollar sponsorship of the AFL (Aussie Rules). Building on my partnership experience, this role required delicate and collaborative management skills to navigate layers of stakeholders via our client & agency village, the broadcaster & the league itself to ensure our creative vision was being delivered whilst still hitting their goals. 2021 was our most effective season to date, elevating AAMI's presence to become synonymous with the footy.
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-**Well-rounded project management**
-I headed up AAMI’s sponsorships at Ogilvy Melbourne, notably their annual, multi-million dollar sponsorship of the AFL (Aussie Rules). Building on my partnership experience, this role required delicate and collaborative management skills to navigate layers of stakeholders via our client & agency village, the broadcaster & the league itself to ensure our creative vision was being delivered whilst still hitting their goals. 2021 was our most effective season to date, elevating AAMI's presence to become synonymous with the footy.
-
-**Creating Business Efficiency**
+#### Creating Business Efficiency
 In leading AAMI’s social media, I spear-headed a move away from a high-churn, low-impact content calendar to a quarterly briefing approach, ensuring every campaign delivers against their overarching KPIs. This created value for my clients and fewer, more interesting projects for my internal teams, reducing team impact and fatigue. It also delivered consistently improved results over 3 years, with high-scoring nationwide & sector-leading results.
 
-**Delivering Innovation**
+#### Delivering Innovation
 Throughout my career, but notably at The Outfit, I have had a demonstrable interest in delivering innovative campaigns for my clients. Whether it's creating live stunts in TV ad-breaks for Assassin's Creed or Cannes award-winning, data-driven road safety campaigns to reduce driver fatigue, I've been drawn to anything that's new & difficult. Whilst rewarding, these projects require single-minded dedication and demand the most of my organizational, problem-solving skillset to tackle challenges that don't have a pre-existing path.
 
-**Fast Learner**
-Having not worked in social before, I was tasked with developing giffgaff's lead.... I quickly taught myself how the back-end of Facebook worked, as well as how to create stand-out 
+#### Fast Learner
+_As a developer_ I went from no coding experience to working with APIs with Ruby in 8 weeks, and translated this knowledge to Javascript in just 2 weeks.
 
-**Calm Presence**
-My time at the Outfit, and as a freelancer, required me to hit the ground running on new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and, more often than not, the culture that needed to shift. I gained a reputation for quickly develop trusting relationships with my clients in order to make an impact. It has meant that wherever I've freelanced, I've been offered a contract extension, with my manager nicknaming me "the client whisperer" due to my calm and reassuring presence.
+_In my career_ having not worked in social before, I was tasked with developing giffgaff's lead.... I quickly taught myself how the back-end of Facebook worked, as well as how to create stand-out 
+
+#### Calm Presence
+_As a developer_
+
+_In my career_ both as a freelancer, but also in other roles, I had to hit the ground running on with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as "the client whisperer" due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients in order to make an impact.
 
 -STAR
 -What was the situation/task? (ST) // -How was the skill used? // -What did you do? (action) // -What was the result?
 
-#### This Skill
-
 - Experience
 - Achievements
 - Evidence (STAR)
-
+- 
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
@@ -73,38 +68,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Recent Professional Experience
 
-**Ogilvy Melbourne** (May 2019 - January 2022)  
+#### [Ogilvy Melbourne](https://www.ogilvy.com.au/) (May 2019 - January 2022)  
 _Senior Account Director_
 
-- Responsible for management of the AAMI brand, Australia's largest insurance brand including all sponsorship, social and road safety workstreams.
-- A recent campaign was awarded a Cannes Gold Lion (the Oscars of advertising) in the Creative Data category.
+- Oversaw management of the AAMI brand, Australia's largest insurance brand including all sponsorship, social and road safety workstreams.
+- A recent campaign was awarded a [Cannes Gold Lion](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia) ('the Oscars of advertising') in the Creative Data category.
 
-**Freelance & Relocation to Australia** (January 2018 - May 2019)  
+**Freelance** (January 2018 - May 2019)
 _Account Director_
 - Freelance roles at agencies in the UK & Australia
 
-**giffgaff - London** (April 2017 - January 2018)  
+**[giffgaff](https://www.giffgaff.com/) - London** (April 2017 - January 2018)  
 _Brand & Advertising Manager_
 - Working client side to manage the advertising and brand output of UK's most disruptive telecoms brand.
 
-**The Outfit - London** (May 2014 - April 2017)  
+**[The Outfit](https://www.theoutfituk.com/) - London** (May 2014 - April 2017)  
 _Account Manager to Account Director_
 - Working across a huge range of clients including McDonald's, Channel 4, PlayStation and more to deliver boundary-pushing, innovative TV campaigns.
 
 ## Education
 
 #### Makers Academy (August 2022 - December 2022)
-A selective 16-week bootcamp, designed to make students oven-ready for junior dev roles.
+A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance rate; designed to make students oven-ready for junior dev roles.
 Skills developed include:
-- Language agnostic teaching, but developing Ruby, Rails & Javascript to a high standard
-- Test Driven Development & RSpec
+- Language agnostic teaching, but developed in Ruby & Javascript to a high standard, as well as a wider supporting tech stack
+- Test Driven Development in RSpec, Jest & Cypress
 - Object-oriented design
 - Pair programming - requiring development of teamwork & communication skills, and to supercharge effective problem-solving
 
 #### University of Nottingham (September 2006 - June 2009)
-- BSc Psychology(Hons)
-- Grade: 2:1
+- 2:1 BSc Psychology(Hons)
+- Relevant modules in stats & the behaviour of user experience
+- One of my final dissertations was an early study into how internet memes exist and spread
 
 ## Hobbies & Life Skills
-French
-Running, travelling, baking & fermenting.
+- :running_man: I run a lot - marathons, half marathons, even a 1000km in-a-year challenge in 2021
+- :video_camera: During Covid I hosted a daily live Instagram video quiz to keep friends and colleagues in touch and entertained
+- :world_map: I love travelling, and would like this new career to allow me to do this, perhaps even while working too
+- :fr: French speaker and general francophile - I'm even getting married in France this year
+- :game_die: Keen gamer with both board & video games, especially strategy games
+- :garlic: I enjoy slow food, especially fermenting, pickling and baking
