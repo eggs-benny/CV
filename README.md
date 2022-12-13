@@ -1,16 +1,14 @@
-## Benedict Smith
- 
-## Get in touch
+# Benedict Smith
 [Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## About Me
-Supported by a 10+ year client-facing career in creative advertising and a graduate from Makers, one of the most distinguished bootcamps in the UK.
+After more than a decade working to a senior level in TV advertising across two continents, I was ready for a new career and a new challenge. Looking to combine my creative background with my problem-solving brain, as well as bringing my well-honed soft-skills to a new role, becoming a developer felt like the ideal career to explore further.
 
-I'm looking for a new challenge as a full-stack engineer, after spending the first part of my career working to a senior level at ad agencies across two continents. I'm intrinsically motivated by the everyday **problem-solving** required to be developer, but especially driven to create user-centric programs that will improve people's lives.
+I am a recent graduate from [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp, which has helped me develop the fundamentals of software development, honing practical skills and a portfolio through projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). As well as working with other students in pairs & groups to simulate real-life working setups - all of which has made me certain that this is the perfect career 2.0 for me.
 
-The discipline, responsibility and attention to detail required from my career so far, paired with my natural empathy, **problem-solving** & logic provide a good basis to be a junior developer who will be able to learn quickly and flourish in any environment. I'm especially looking for a role with strong employee support and mentorship.
+The discipline, responsibility and attention to detail required from my career to date, paired with my natural empathic, analytical, logical approach provides a good basis to be a junior developer who will be able to learn quickly and flourish in any environment.
 
-From August - December 2022 I studied at Makers, a bootcamp for developers, where I have learnt the fundamentals of software development, building practical skills through projects, and working with other students in pairs & groups to simulate real-life working scenarios.
+I'm especially looking for a role that creates user-centric products, that will improve people's lives, as well as companies that offer strong employee support and mentorship.
 
 Read on for more, or find my PDF CV here.
 
