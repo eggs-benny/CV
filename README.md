@@ -2,13 +2,13 @@
 [Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## About Me
-After more than a decade working to a senior level in TV advertising across two continents, I was ready for a new career and a new challenge. Looking to combine my creative background with my problem-solving brain, as well as bringing my well-honed soft-skills to a new role, becoming a developer felt like the ideal career to explore further.
+With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. By combining my creative background with my problem-solving brain, as well as bringing my well-honed soft-skills to a new role, becoming a developer felt like the ideal career to explore further.
 
-I am a recent graduate from [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp, which has helped me develop the fundamentals of software development, honing practical skills and a portfolio through projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). As well as working with other students in pairs & groups to simulate real-life working setups - all of which has made me certain that this is the perfect career 2.0 for me.
+I am a recent graduate from [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp. Here I learned the fundamentals of software development, honing practical skills and building a portfolio through projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). As well as working with other students in pairs & groups, both in-person and remotely to simulate real-life software career setups - all of which has made me certain that this my perfect career 2.0.
 
-The discipline, responsibility and attention to detail required from my career to date, paired with my natural empathic, analytical, logical approach provides a good basis to be a junior developer who will be able to learn quickly and flourish in any environment.
+The discipline, responsibility and attention to detail required from my career to date, paired with my natural empathic, analytical, logical approach provides a good basis to be a junior developer, able to learn quickly and flourish in any environment.
 
-I'm especially looking for a role that creates user-centric products, that will improve people's lives, as well as companies that offer strong employee support and mentorship.
+I'd like to work for companies that build user-centric products that improve people's lives, or create tech for good. I'm also very keen to find a role that offers strong employee development, support and mentorship.
 
 Read on for more, or find my PDF CV here.
 
@@ -29,34 +29,30 @@ Read on for more, or find my PDF CV here.
 
 ## Skills
 
-#### Well-rounded project management
-_As a developer_
+#### Fast Learner
+_As a developer_, I went from almost no coding experience to working with APIs with Ruby in 8 weeks. I then translated this knowledge to become similarly proficient in Javascript in just an additional 2 weeks. Over the Christmas break, I self-taught myself TypeScript.
 
-_In my career_ I headed up AAMI’s sponsorships at Ogilvy Melbourne, notably their annual, multi-million dollar sponsorship of the AFL (Aussie Rules). Building on my partnership experience, this role required delicate and collaborative management skills to navigate layers of stakeholders via our client & agency village, the broadcaster & the league itself to ensure our creative vision was being delivered whilst still hitting their goals. 2021 was our most effective season to date, elevating AAMI's presence to become synonymous with the footy.
+_During my career_, having not worked in social media before, I was tasked with improving giffgaff's lead generating social adverts. I quickly taught myself how the back-end of Facebook/Instagram's ad platform worked (i.e. how to plan & buy ads), as well as using online resources and Facebook workshops on how to create stand-out creative. The new ads achieved best in class results that year, based on Facebook's benchmarks.
+
+#### Well-rounded project management
+_During my career_, I headed up AAMI's sponsorships at Ogilvy Melbourne, notably their annual, multi-million dollar sponsorship of the AFL (Aussie Rules). This role required delicate and collaborative management skills to navigate layers of stakeholders via our client & agency village, the broadcaster & the league itself to ensure our creative vision was being delivered whilst still hitting their goals. 2021 was our most effective season to date, elevating AAMI's presence to become synonymous with the footy.
+
+_As a developer_, I worked with my team using an Agile approach.............
 
 #### Creating Business Efficiency
-In leading AAMI’s social media, I spear-headed a move away from a high-churn, low-impact content calendar to a quarterly briefing approach, ensuring every campaign delivers against their overarching KPIs. This created value for my clients and fewer, more interesting projects for my internal teams, reducing team impact and fatigue. It also delivered consistently improved results over 3 years, with high-scoring nationwide & sector-leading results.
+In leading AAMI insurance’s social media advertising, I spear-headed a move away from high-churn, low-impact content to a quarterly briefing approach, and a judgement criteria, ensuring campaigns delivered against their overarching KPIs. This created better value for my clients, fewer, more interesting projects for my creative teams to work on (thus reducing team impact and fatigue) and more enjoyable content for our audience. Over the 3 years I worked on the brand, the results improved significantly year on year, ending with very high-scoring nationwide & sector-leading results.
 
 #### Delivering Innovation
-Throughout my career, but notably at The Outfit, I have had a demonstrable interest in delivering innovative campaigns for my clients. Whether it's creating live stunts in TV ad-breaks for Assassin's Creed or Cannes award-winning, data-driven road safety campaigns to reduce driver fatigue, I've been drawn to anything that's new & difficult. Whilst rewarding, these projects require single-minded dedication and demand the most of my organizational, problem-solving skillset to tackle challenges that don't have a pre-existing path.
+_During my career_, notably at The Outfit, I have had a demonstrable interest in delivering innovative campaigns. Whether it's creating live stunts in TV ad-breaks for [Assassin's Creed](https://www.youtube.com/watch?v=p87bJx5Dxzo) or [Cannes award-winning](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia), data-driven road safety campaigns to reduce driver fatigue, I've been drawn to anything that's new & challenging. Whilst rewarding, these projects require single-minded dedication and demand the most of my organizational, problem-solving skillset to tackle challenges that don't have a pre-existing path.
 
-#### Fast Learner
-_As a developer_ I went from no coding experience to working with APIs with Ruby in 8 weeks, and translated this knowledge to Javascript in just 2 weeks.
+_As a developer_, in our final project at Makers, we wanted to build something innovative. We therefore developed Votewatch, an app that 
 
-_In my career_ having not worked in social before, I was tasked with developing giffgaff's lead.... I quickly taught myself how the back-end of Facebook worked, as well as how to create stand-out 
+#### Calm head & calming Presence
+_During my career_ both as a freelancer, but also in other roles, I had to hit the ground running on with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as "the client whisperer" due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients in order to make an impact.
 
-#### Calm Presence
-_As a developer_
+_As a developer_, in the last days of our final project at Makers, behind schedule and with several large features still to be to be included in our beta, I became the team's 'merge master'. Drawing on a decade of tight-deadlines, I knew that by keeping everyone calm and taking a systematic approach to merging, we would ensure all features worked. Despite an early-hours finish, we got the app working and ready to [present](https://youtu.be/jNPUt79UpsA?t=134) the next day.
 
-_In my career_ both as a freelancer, but also in other roles, I had to hit the ground running on with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as "the client whisperer" due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients in order to make an impact.
 
--STAR
--What was the situation/task? (ST) // -How was the skill used? // -What did you do? (action) // -What was the result?
-
-- Experience
-- Achievements
-- Evidence (STAR)
-- 
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
