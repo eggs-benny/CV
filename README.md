@@ -13,7 +13,7 @@ I'm especially looking for a role that creates user-centric products, that will 
 Read on for more, or find my PDF CV here.
 
 ## Stack
-![My Stack](https://skills.thijs.gg/icons?i=js,react,mongodb,postgres,nodejs,ruby,html,css,git,bash,heroku,jest&perline=4&theme=dark)
+![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,bash,heroku,jest&perline=4&theme=dark)
 
 ## Projects
 
@@ -83,30 +83,47 @@ _Brand & Advertising Manager_
 - Working client side to manage the advertising and brand output of UK's most disruptive telecoms brand.
 
 **[The Outfit](https://www.theoutfituk.com/) - London** (May 2014 - April 2017)  
-_Account Manager to Account Director_
-- Working across a huge range of clients including McDonald's, Channel 4, PlayStation and more to deliver boundary-pushing, innovative TV campaigns.
+_Account Manager and Account Director_
+- Working across a huge range of clients including McDonald's, Land Rover, PlayStation and more to deliver boundary-pushing, innovative TV partnership campaigns with Channel 4.
 
 ## Education
 
 #### Makers Academy (August 2022 - December 2022)
 A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance rate; designed to make students oven-ready for junior dev roles.
-Skills developed include:
-- Language agnostic teaching, but developed in Ruby & Javascript to a high standard, as well as a wider supporting tech stack
-- Test Driven Development in RSpec, Jest & Cypress
-- Object-oriented design
-- Pair programming - requiring development of teamwork & communication skills, and to supercharge effective problem-solving
+
+##### Hard skills
+- Test Driven Development: Learning TDD means I will approach code scientifically & behaviour-first, using integration and unit testing. Testing experience using RSpec, Jest & Cypress.
+- OOD & SOLID principles: To ensure our code was clean, readable & easier to debug and refactor ([example](https://github.com/eggs-benny/bank_tech_test))
+- Databases: Building databases and Create, Read, Update & Delete data using Postman, Postgresql, MongoDB & Ruby ORM.
+- APIs: Leveraging existing APIs (such as the Guardian or House of Commons) to power apps & webapps we built, as well as learning how to set up our own 
+- Full-stack environment: We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN] [https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone] & [SERN] [https://github.com/tomallens/votewatch].
+
+##### Soft Skills
+- Language agnostic approach: Although we developed in Ruby & Javascript to a high standard, plus a supporting tech stack, we were also shown how to self-learn new languages and frameworks in short timescales.
+- Agile: Developing & practising an Agile workflow on team projects using in-depth planning (e.g. Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and learning to adapt a project with time.
+- Goal-directed learning: Learning _how_ to learn was the actually most important lesson from this course. Setting goals, monitoring progress (in daily stand-ups) & reflecting (in weekly retros) made this learning experience efficient, enjoyable & effective.
+- Teamwork & Collaboration: Daily pair programming & team projects made up the majority of the course. Which showed us that working closely and collaboratively is often the most effective way to code.
+
 
 #### University of Nottingham (September 2006 - June 2009)
 - 2:1 BSc Psychology(Hons)
 - Relevant modules in stats & the behaviour of user experience
-- One of my final dissertations was an early study into how internet memes exist and spread
+- Final-year dissertations & projects on nascent (at the time) internet memes, and prediction of behaviour.
 
 ## Hobbies & Life Skills
-- :running_man: I run a lot - marathons, half marathons, even a 1000km in-a-year challenge in 2021
-- :video_camera: During Covid I hosted a daily live Instagram video quiz to keep friends and colleagues in touch and entertained
-- :world_map: I love travelling, and would like this new career to allow me to do this, perhaps even while working too
-- :fr: French speaker and general francophile - I'm even getting married in France this year
-- :game_die: Keen gamer with both board & video games, especially strategy games
-- :garlic: I enjoy slow food, especially fermenting, pickling and baking
+- :running_man: Marathons, half-marathons, trails, Park Run, and even a 1000km in-a-year challenge in 2021
+- :microphone: During Covid I hosted a daily Instagram Live video quiz to keep friends and colleagues in touch and entertained
+- :hiking_boot: Nature & the outdoors, walking & hiking, a (very) amateur birder
+- :kangaroo: Recently returned to the UK following 4 years working & living in Melbourne, Australia
+- :fr: French speaker and general francophile - I'm even getting married in France this year!
+- :game_die: Both board & video gamer, especially strategy games
+- :garlic: I enjoy making and eating slow food, especially fermenting, pickling and baking
+
+## References
+Angus Pearce, Business Director, Ogilvy (Melbourne)
+angus.pearce@ogilvy.com.au // +61 413 202 449
+
+Niall Murdoch, MD, The Outfit (London)
+niall@theoutfituk.com // 07810 378812
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=eggs-benny)
