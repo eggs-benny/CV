@@ -108,7 +108,7 @@ A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance ra
 
 ## Hobbies & Life Skills
 - :running_man: Marathons, half-marathons, trails, Park Run, and even a 1000km in-a-year challenge in 2021
-- :microphone: During Covid I hosted a daily Instagram Live video quiz to keep friends and colleagues in touch and entertained
+- :microphone: During Covid I hosted daily Instagram Live video quizzes, keeing colleagues & pals in touch and entertained
 - :hiking_boot: Nature & the outdoors, walking & hiking, a (very) amateur birder
 - :kangaroo: Recently returned to the UK following 4 years working & living in Melbourne, Australia
 - :fr: French speaker and general francophile - I'm even getting married in France this year!
@@ -116,10 +116,10 @@ A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance ra
 - :garlic: I enjoy making and eating slow food, especially fermenting, pickling and baking
 
 ## References
-Angus Pearce, Business Director, Ogilvy (Melbourne)
+Angus Pearce, Business Director, Ogilvy (Melbourne)<br>
 angus.pearce@ogilvy.com.au // +61 413 202 449
 
-Niall Murdoch, MD, The Outfit (London)
+Niall Murdoch, MD, The Outfit (London)<br>
 niall@theoutfituk.com // 07810 378812
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=eggs-benny)
