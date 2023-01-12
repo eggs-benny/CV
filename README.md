@@ -1,5 +1,5 @@
 # Benedict Smith
-[Github](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [IG](https://instagram.com/eggs_codes) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
+[GitHub](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## ABOUT ME
 With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Becoming a developer has been the ideal career to explore further as it combines my creative background with my problem-solving brain, as well as bringing my well-honed soft skills to a new role.
@@ -30,7 +30,7 @@ Read on for more, or find my 1-pager PDF CV here.
 ## SKILLS
 
 #### Fast Learner
-_As a developer_, I went from almost no coding experience to working with APIs with Ruby in just 8 weeks. I then translated this knowledge to become similarly proficient in Javascript in just an additional 2 weeks. Over the Christmas break, I self-taught myself TypeScript.
+_As a developer_, I went from almost no coding experience to working with APIs with Ruby in just 8 weeks. I then translated this knowledge to become similarly proficient in Javascript in just an additional 2 weeks. Over the recent Christmas break, I self-taught myself TypeScript.
 
 _During my career_, having not worked in social media before, and working in-house at giffgaff (a UK telco) I was tasked with improving their lead generating social adverts. I quickly taught myself how the back-end of Facebook & Instagram's ad platforms worked (i.e. how to plan & buy ads), as well as using online resources and Facebook workshops on how to create stand-out creative. The new ads achieved best in class results that year, based on Facebook's benchmarks.
 
@@ -58,17 +58,17 @@ _As a developer_, in the last days of our final project at Makers, behind schedu
 A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance rate; designed to make students oven-ready for junior dev roles.
 
 ##### Hard skills
-- Test Driven Development: Learning TDD means I will approach code scientifically & behaviour-first, using integration and unit testing. Testing experience using RSpec, Jest & Cypress.
-- OOD & SOLID principles: To ensure our code was clean, readable & easier to debug and refactor ([example](https://github.com/eggs-benny/bank_tech_test))
-- Databases: Building databases and Create, Read, Update & Delete data using Postman, Postgresql, MongoDB & Ruby ORM.
-- APIs: Leveraging existing APIs (such as the Guardian or House of Commons) to power apps & webapps we built, as well as learning how to set up our own 
-- Full-stack environment: We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN] [https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone] & [SERN] [https://github.com/tomallens/votewatch].
+- **Test Driven Development:** Learning TDD means I will approach code scientifically & behaviour-first, using integration and unit testing. Testing experience using RSpec, Jest & Cypress.
+- **OOD & SOLID principles:** To ensure our code was clean, readable & easier to debug and refactor ([example](https://github.com/eggs-benny/bank_tech_test)).
+- **Databases:** Building databases and Create, Read, Update & Delete data using Postman, Postgresql, MongoDB & Ruby ORM.
+- **APIs:** Leveraging existing APIs (such as the Guardian or House of Commons) to power apps & webapps we built, as well as learning how to set up our own APIs.
+- **Full-stack environment:** We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN] [https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone] & [SERN] [https://github.com/tomallens/votewatch].
 
 ##### Soft Skills
-- Language agnostic approach: Although we developed in Ruby & Javascript to a high standard, plus a supporting tech stack, we were also shown how to self-learn new languages and frameworks in short timescales.
-- Agile: Developing & practising an Agile workflow on team projects using in-depth planning (e.g. Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and learning to adapt a project with time.
-- Goal-directed learning: Learning _how_ to learn was the actually most important lesson from this course. Setting goals, monitoring progress (in daily stand-ups) & reflecting (in weekly retros) made this learning experience efficient, enjoyable & effective.
-- Teamwork & Collaboration: Daily pair programming & team projects made up the majority of the course. Which showed us that working closely and collaboratively is often the most effective way to code.
+- **Language agnostic approach:** Although we developed in Ruby & Javascript to a high standard, plus a supporting tech stack, we were also shown how to self-learn new languages and frameworks in short timescales.
+- **Agile:** Developing & practising an Agile workflow on team projects using in-depth planning (e.g. Excalidraw), tickets (Trello), sprints, retros (Miro), daily standups and learning to adapt a project with time.
+- **Goal-directed learning:** Learning _how_ to learn was the actually most important lesson from this course. Setting goals, monitoring progress (in daily stand-ups) & reflecting (in weekly retros) made this learning experience efficient, enjoyable & effective.
+- **Teamwork & Collaboration:** Daily pair programming & team projects made up the majority of the course. Which showed us that working closely and collaboratively is often the most effective way to code.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -78,7 +78,7 @@ _Senior Account Director_
 - Oversaw management of the AAMI brand, Australia's largest insurance brand including brand, sponsorship, social and road safety workstreams.
 - A [recent campaign](https://vimeo.com/705202197?embedded=true&source=vimeo_logo&owner=12142397) was awarded a [Cannes Gold Lion](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia) ('the Oscars of advertising') in the Creative Data category.
 - Consistently improved quality of social & sponsorship output from poor to sector-leading over 3 years.
-- Oversaw AAMI’s biggest brand campaign production with a $2m+ budget.
+- Oversaw AAMI’s biggest [brand campaign](https://www.youtube.com/watch?v=D25pwEP4rts) production with a $2m+ budget.
 
 **Freelance** (January 2018 - May 2019)
 _Account Director_
@@ -88,8 +88,8 @@ _Account Director_
 **[The Outfit](https://www.theoutfituk.com/) - London** (May 2014 - April 2017 & January 2018 - October 2018)  
 _Account Manager and Account Director_
 
-- Led a multi-brand campaign against online hate that won Campaign of the Year in 2018.
-- Delivered consistently innovative campaigns from live ad-break takeovers to high-volume hyper-contextual TV spots with major clients such as McDonald’s, Sony & Land Rover.
+- Led a multi-brand campaign against online hate that won [Campaign of the Year in 2018](https://www.marketingweek.com/channel-4s-togetheragainsthate-wins-marketing-campaign-year/).
+- Delivered consistently innovative campaigns from [live ad-break](https://www.theoutfituk.com/work/sam-smith/) takeovers to high-volume [hyper-contextual](https://www.theoutfituk.com/work/mcdonalds/) TV spots with major clients such as McDonald’s, Sony & Land Rover.
 - Worked with agents to procure, negotiate, and contract big name talent for campaigns.
 
 **[giffgaff](https://www.giffgaff.com/) - London** (April 2017 - January 2018)  
@@ -97,23 +97,23 @@ _Brand & Advertising Manager_
 
 - Working in house to manage the advertising and brand output of UK's most disruptive telecoms brand, which gave me a wider sense of how a start-up turned medium-sized business operates.
 - Worked alongside product managers to brief and build updates to the giffgaff website.
-- Lead the brand’s biggest annual activation including delivery of film, content & events.
+- Lead the brand’s biggest [annual activation](https://www.youtube.com/watch?v=jYaifaLkxkw), including delivery of film, content & events.
 
 ## EDUCATION
 
 #### University of Nottingham (September 2006 - June 2009)
 - 2:1 BSc Psychology(Hons)
-- Relevant modules in stats & the behaviour of user experience
+- Relevant modules in stats & the behaviour of user experience.
 - Final-year dissertations & projects on nascent (at the time) internet memes, and prediction of behaviour.
 
 ## Hobbies & Life Skills
-- :running_man: Marathons, half-marathons, trails, Park Run, and even a 1000km in-a-year challenge in 2021
-- :microphone: During Covid I hosted daily Instagram Live video quizzes, keeing colleagues & pals in touch and entertained
-- :deciduous_tree: Nature & the outdoors, walking & hiking, a (very) amateur birder
-- :koala: Recently returned to the UK following 4 years working & living in Melbourne, Australia
-- :fr: French speaker and general francophile - I'm even getting married in France this year
-- :game_die: Both board & video gamer, especially strategy games
-- :garlic: Making and eating slow food, especially fermenting, pickling and baking
+- :running_man: Marathons, half-marathons, trails, Park Run, and even a 1000km in-a-year challenge in 2021.
+- :microphone: During Covid I hosted daily Instagram Live video quizzes, keeing colleagues & pals in touch and entertained.
+- :deciduous_tree: Nature & the outdoors, walking & hiking, a (very) amateur birder.
+- :koala: Recently returned to the UK following 4 years working & living in Melbourne, Australia.
+- :fr: French speaker and general francophile - I'm even getting married in France this year.
+- :game_die: Both board & video gamer, especially strategy games.
+- :garlic: Making and eating slow food, especially fermenting, pickling and baking.
 
 ## REFERENCES
 Angus Pearce, Business Director, Ogilvy (Melbourne)<br>
