@@ -10,7 +10,7 @@ The discipline, responsibility and attention to detail required from my career t
 
 I'd like to work for companies that build user-centric products that improve people's lives, or create tech for good. I'm also very keen to find a role that offers strong employee development, support and mentorship.
 
-Read on for more, or find my 1-pager PDF CV here.
+Read on for more, or find my 1-pager [PDF]() CV here.
 
 ## STACK
 ![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,bash,heroku,jest&perline=4&theme=dark)
@@ -47,8 +47,8 @@ _During my career_, notably at The Outfit, I have had a demonstrable interest in
 
 _As a developer_, in our final project at Makers, we wanted to build something innovative. We therefore developed Votewatch, an app that gives the user the ability to see how their MP votes in the House of Commons, using the Commons API. This was the first time Makers students had created an app like this or used the HoC API. 
 
-#### Calm head & calming Presence
-_During my career_ both as a freelancer, but also in other roles, I had to hit the ground running on with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as "the client whisperer" due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients & colleagues in order to deliver interesting work while also beating business KPIs.
+#### Calm head & empathetic presence
+_During my career_ both as a freelancer, but also in other roles, I had to hit the ground running with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as "the client whisperer" due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients & colleagues in order to deliver interesting work while also beating business KPIs.
 
 _As a developer_, in the last days of our final project at Makers, behind schedule and with several large features still to be to be included in our beta, I became the team's 'merge master'. Drawing on a decade of tight-deadlines, I knew that by keeping everyone calm and taking a systematic approach to merging, we would ensure all features worked. Despite an early-hours finish, we got the app working and a presentation written, ready to [show off](https://youtu.be/jNPUt79UpsA?t=134) the next day.
 
