@@ -2,7 +2,7 @@
 [GitHub](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## ABOUT ME
-With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Becoming a developer has been the ideal career to explore further Coding excites me as it combines my creative background with my problem-solving brain, as well as bringing my well-honed soft skills to a new role.
+With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Becoming a developer has been the ideal career to explore further. Coding excites me as it combines my creative background with my problem-solving brain, as well as bringing my well-honed soft skills to a new role.
 
 I therefore enrolled at [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp, from where I graduated in December 2022. Here I learned the fundamentals of software development, buidling practical skills and working on a portfolio of projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). A key focus of the couse was working with other students in pairs & groups, both in-person and remotely, to simulate real-life team & work setups. I enjoyed and excelled in the course, and I am certain that this my perfect career 2.0.
 
