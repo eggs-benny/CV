@@ -2,7 +2,7 @@
 [GitHub](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## ABOUT ME
-With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Software development has been the ideal career to explore further because it fits well with my natural skillset. Combing my creative background with my problem-solving brain, as well as bringing my well-honed soft skills to a new role.
+With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Software development has been the ideal career to explore further because it fits well with my natural skillset. Combining my creative background with my problem-solving brain, as well as bringing my well-honed business accumen & soft skills to a new role.
 
 I therefore enrolled at [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp, from where I graduated in December 2022. Here I learned the fundamentals of software development, building practical skills and working on a portfolio of projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). A key focus of the course was working with other students in pairs & groups, both in-person and remotely, to simulate real-life team & work setups. I enjoyed and excelled in the course, and I am certain that this my perfect career 2.0.
 
@@ -76,9 +76,10 @@ A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance ra
 #### [Ogilvy Melbourne](https://www.ogilvy.com.au/) (May 2019 - January 2022)  
 _Senior Account Director_
 
-- Oversaw management of the AAMI brand, Australia's largest insurance brand including brand, sponsorship, social and road safety workstreams.
+- Guided teams to devise strategies and deliver successful brand campaigns for Australia’s top insurer.
+- Developed and implemented award-winning campaigns, including a Cannes Gold Lion for 'creative use of data' in 2022.
 - A [recent campaign](https://vimeo.com/705202197?embedded=true&source=vimeo_logo&owner=12142397) was awarded a [Cannes Gold Lion](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia) ('the Oscars of advertising') in the Creative Data category.
-- Consistently improved quality of social & sponsorship output from poor to sector-leading over 3 years.
+- Transformed social & sponsorship campaign output from subpar to a sector-leading standard over 3 years.
 - Oversaw AAMI’s biggest [brand campaign](https://www.youtube.com/watch?v=D25pwEP4rts) production with a $2m+ budget.
 
 #### Freelance (January 2018 - May 2019)
@@ -89,16 +90,16 @@ _Account Director_
 #### [The Outfit](https://www.theoutfituk.com/) - London (May 2014 - April 2017 & January 2018 - October 2018)  
 _Account Manager and Account Director_
 
-- Led a multi-brand campaign against online hate that won [Campaign of the Year in 2018](https://www.marketingweek.com/channel-4s-togetheragainsthate-wins-marketing-campaign-year/).
-- Delivered consistently innovative campaigns from [live ad-break](https://www.theoutfituk.com/work/sam-smith/) takeovers to high-volume [hyper-contextual](https://www.theoutfituk.com/work/mcdonalds/) TV spots with major clients such as McDonald’s, Sony & Land Rover.
-- Worked with agents to procure, negotiate, and contract big name talent for campaigns.
+- Orchestrated a multi-brand campaign that won [Campaign of the Year in 2018](https://www.marketingweek.com/channel-4s-togetheragainsthate-wins-marketing-campaign-year/), to tackle the rise of online hate.
+- Delivered revolutionary campaigns with [live ad-break](https://www.theoutfituk.com/work/sam-smith/) takeovers for superstar clients such as Sam Smith & Assassin's Creed through to [hyper-contextual](https://www.theoutfituk.com/work/mcdonalds/) TV spots with global brands like McDonald’s, Sony & Land Rover.
+- Collaborated with agents to secure top talent for campaigns and contracts.
 
 #### [giffgaff](https://www.giffgaff.com/) - London** (April 2017 - January 2018)  
 _Brand & Advertising Manager_
 
-- Working in house to manage the advertising and brand output of UK's most disruptive telecoms brand, which gave me a wider sense of how a start-up turned medium-sized business operates.
-- Worked alongside product managers to brief and build updates to the giffgaff website.
-- Lead the brand’s biggest [annual activation](https://www.youtube.com/watch?v=jYaifaLkxkw), including delivery of film, content & events.
+- Drove creative output of UK's renowned disruptive telecoms brand, giving me a perspective on how a growing business operates.
+- Collaborated with product managers to enhance the customer experience on the giffgaff website.
+- Orchestrated the largest annual brand [activation](https://www.youtube.com/watch?v=jYaifaLkxkw), including film creation, content curation & events delivery.
 
 #### [adamandeveDDB](https://www.adamandeveddb.com/) - London (May 2012 - May 2014)
 _Senior Account Executive_
@@ -115,7 +116,7 @@ _2:1 BSc Psychology(Hons)_<br>
 
 ## Hobbies & Life Skills
 :running_man: Marathons, half-marathons, trails, Park Run, and even a 1000km in-a-year challenge in 2021.<br>
-:microphone: During Covid I hosted daily Instagram Live video quizzes, keeing colleagues & pals in touch and entertained.<br>
+:microphone: During Covid I hosted daily Instagram Live video quizzes, keeping colleagues & pals in touch and entertained.<br>
 :deciduous_tree: Nature & the outdoors, walking & hiking, a (very) amateur birder.<br>
 :koala: Recently returned to the UK following 4 years working & living in Melbourne, Australia.<br>
 :fr: French speaker and general francophile - I'm even getting married in France this year.<br>
