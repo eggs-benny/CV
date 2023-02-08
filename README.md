@@ -65,7 +65,7 @@ A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance ra
 - **OOD & SOLID principles:** To ensure our code was clean, readable & easier to debug and refactor ([example](https://github.com/eggs-benny/bank_tech_test)).
 - **Databases:** Building databases and Create, Read, Update & Delete data using Postman, Postgresql, Sequelize, MongoDB & Ruby ORM.
 - **APIs:** Leveraging existing APIs (such as the Guardian or House of Commons) to power apps & webapps we built, as well as learning how to set up our own APIs.
-- **Full-stack environment:** We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN] [https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone] & [SERN] [https://github.com/tomallens/votewatch].
+- **Full-stack environment:** We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) & [SERN](https://github.com/tomallens/votewatch).
 - **Language agnostic approach:** Although we developed in Ruby & JavaScript to a high standard, plus a supporting tech stack, we were also shown how to self-learn new languages and frameworks in short timescales.
 - **Agile:** Developing & practising an Agile workflow on team projects using in-depth planning (e.g. Excalidraw), tickets (Trello), sprints, retros (Miro), daily stand-ups and learning to adapt a project with time.
 - **Goal-directed learning:** Learning _how_ to learn was the actually most important lesson from this course. Setting goals, monitoring progress (in daily stand-ups) & reflecting (in weekly retros) made this learning experience efficient, enjoyable & effective.
