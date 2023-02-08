@@ -2,9 +2,9 @@
 [GitHub](https://github.com/eggs-benny) // [Codewars](https://www.codewars.com/users/eggs-benny) // [LinkedIn](https://www.linkedin.com/in/benedict-smith-21b00330) // [Email](mailto:benedict.smith87@gmail.com) // [WhatsApp](https://wa.me/447541784011?text=Hi%20Ben,%20I%20saw%20your%20Github%20and%20...)
 
 ## ABOUT ME
-With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Software development has been the ideal career to explore further because it fits well with my natural skillset. Combining my creative background with my problem-solving brain, as well as bringing my well-honed business accumen & soft skills to a new role.
+With over a decade of experience working to a senior level in advertising across two continents, I felt ready for a new challenge and a new career. Software development has been the ideal career to explore further because it fits well with my natural skillset. Combining my creative background with my problem-solving brain, as well as bringing my well-honed business acumen & soft skills to a new role.
 
-I therefore enrolled at [Makers Academy](https://makers.tech/about-us/), a highly-respected UK bootcamp, from where I graduated in December 2022. Here I learned the fundamentals of software development, building practical skills and working on a portfolio of projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). A key focus of the course was working with other students in pairs & groups, both in-person and remotely, to simulate real-life team & work setups. I enjoyed and excelled in the course, and I am certain that this my perfect career 2.0.
+I built my coding credentials at Makers Academy, a highly-respected full-stack bootcamp, from where I graduated in December 2022. Here I learned the fundamentals of software development, building practical skills and working on a portfolio of projects (such as [this](https://youtu.be/jNPUt79UpsA?t=134)). A key focus of the course was working with other students in pairs & groups, both in-person and remotely, to simulate real-life team & work setups. I enjoyed and excelled in the course, and I am ready to continue with my perfect career 2.0.
 
 Coding and the tech world also really excite me on a personal level. I enjoy the practice, even at its most frustrating, and relish being 'in the zone'. I like to consider how programs I'll develop will impact user's lives, and I'd love to work for a company that either creates a product that enhances a user's experience of life, or improves lives through tech for good.
 
@@ -78,7 +78,7 @@ _Senior Account Director_
 
 - Guided teams to devise strategies and deliver successful brand campaigns for Australia’s top insurer.
 - Developed and implemented award-winning campaigns, including a Cannes Gold Lion for 'creative use of data' in 2022.
-- A [recent campaign](https://vimeo.com/705202197?embedded=true&source=vimeo_logo&owner=12142397) was awarded a [Cannes Gold Lion](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia) ('the Oscars of advertising') in the Creative Data category.
+- A [recent campaign](https://www.youtube.com/watch?v=4l-IhJzLjb8) was awarded a [Cannes Gold Lion](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia) ('the Oscars of advertising') in the Creative Data category.
 - Transformed social & sponsorship campaign output from subpar to a sector-leading standard over 3 years.
 - Oversaw AAMI’s biggest [brand campaign](https://www.youtube.com/watch?v=D25pwEP4rts) production with a $2m+ budget.
 
