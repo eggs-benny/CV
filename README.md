@@ -22,7 +22,7 @@ To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs
 | **votewatch** | An iOS & Android app aimed at making UK politics more transparent leveraging the House of Commons API | [app demo](https://youtu.be/jNPUt79UpsA?t=134), [repo](https://github.com/tomallens/votewatch) | React Native, Expo, PostgreSQL, Sequelize, Express, Node.JS | 8 days x 6 people |
 | **grumblebook** | A facebook clone where you can grumble with friends | [repo](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) | React, MongoDB, Mongoose, Express, Node JS, Cypress, Firebase | 10 days x 6 people |
 | **Chittr** | A clone of twitter built in Ruby | [repo](https://github.com/eggs-benny/chitter-challenge) | Ruby, ActiveRecord, Rails, PosgreSQL, CSS, HTML | 3 days x solo |
-| **Guardian News Reader** | A deployed front end site where you can read and search for Guardian news articles | React, Node.JS
+| **Guardian News Reader** | A deployed front end site where you can read and search for Guardian news articles | [site](https://guardian-react-api.vercel.app/)| React, Node.JS | 3 days x solo
 | **Bank App Tech Test** | A solo tech test, demonstrating, TDD & clean code | [repo](https://github.com/eggs-benny/bank_tech_test) | Node.JS, Jest | 2 days x solo |
 | **The Gilded Rose** | A classic tech test, focused on polymorphic refactoring | [repo](https://github.com/eggs-benny/GildedRose-Refactoring-Kata) | Node.JS, Jest | 1 day x solo |
 | **Bowling Scorecard** | A bowling scorecard written in 2 languages | [JS repo](https://github.com/eggs-benny/bowling-challenge), [Ruby repo](https://github.com/eggs-benny/bowling-challenge-ruby) | Node.JS, Ruby | 2 days each x solo |
