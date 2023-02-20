@@ -17,8 +17,7 @@ To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs
 
 ## PROJECTS
 
-| Name | Description | Discover | Stack | 
-ld Time / Group |
+| Name | Description | Discover | Stack | Build Time / Group |
 |---------------|-----------|------------|----|----------|
 | **votewatch** | An iOS & Android app aimed at making UK politics more transparent leveraging the House of Commons API | [app demo](https://youtu.be/jNPUt79UpsA?t=134), [repo](https://github.com/tomallens/votewatch) | React Native, Expo, PostgreSQL, Sequelize, Express, Node.JS | 8 days x 6 people |
 | **grumblebook** | A facebook clone where you can grumble with friends | [repo](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) | React, MongoDB, Mongoose, Express, Node JS, Cypress, Firebase | 10 days x 6 people |
