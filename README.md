@@ -13,7 +13,7 @@ The discipline, responsibility and attention to detail required from my career t
 To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs-benny/eggs-benny/blob/master/benedict-smith-cv-230116.pdf)
 
 ## STACK
-![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,bash,heroku,jest&perline=4&theme=dark)
+![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,sequelize,heroku,jest&perline=4&theme=dark)
 
 ## PROJECTS
 
