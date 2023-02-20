@@ -21,7 +21,8 @@ To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs
 |---------------|-----------|------------|----|----------|
 | **votewatch** | An iOS & Android app aimed at making UK politics more transparent leveraging the House of Commons API | [app demo](https://youtu.be/jNPUt79UpsA?t=134), [repo](https://github.com/tomallens/votewatch) | React Native, Expo, PostgreSQL, Sequelize, Express, Node.JS | 8 days x 6 people |
 | **grumblebook** | A facebook clone where you can grumble with friends | [repo](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) | React, MongoDB, Mongoose, Express, Node JS, Cypress, Firebase | 10 days x 6 people |
-| **Chittr** | A clone of twitter built in Ruby | [repo](https://github.com/eggs-benny/chitter-challenge) | Ruby, ORM, Rails, PosgreSQL, CSS, HTML | 3 days x solo |
+| **Chittr** | A clone of twitter built in Ruby | [repo](https://github.com/eggs-benny/chitter-challenge) | Ruby, ActiveRecord, Rails, PosgreSQL, CSS, HTML | 3 days x solo |
+| **Guardian News Reader** | A deployed front end site where you can read and search for Guardian news articles | React, Node.JS
 | **Bank App Tech Test** | A solo tech test, demonstrating, TDD & clean code | [repo](https://github.com/eggs-benny/bank_tech_test) | Node.JS, Jest | 2 days x solo |
 | **The Gilded Rose** | A classic tech test, focused on polymorphic refactoring | [repo](https://github.com/eggs-benny/GildedRose-Refactoring-Kata) | Node.JS, Jest | 1 day x solo |
 | **Bowling Scorecard** | A bowling scorecard written in 2 languages | [JS repo](https://github.com/eggs-benny/bowling-challenge), [Ruby repo](https://github.com/eggs-benny/bowling-challenge-ruby) | Node.JS, Ruby | 2 days each x solo |
@@ -29,15 +30,15 @@ To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs
 
 ## SKILLS
 
-#### Fast Learner
-_During my career_, having not worked in social media before, and working in-house at [giffgaff](giffgaff) (a UK telco) I was tasked with improving their lead generating social adverts. I quickly taught myself how the back-end of Facebook & Instagram's ad platforms worked (i.e. how to plan & buy ads), as well as using online resources and Facebook workshops on how to create stand-out creative. The new ads achieved best in class results that year, based on Facebook's benchmarks.
-
-_As a developer_, I went from almost no coding experience to working with APIs with Ruby in just 8 weeks. I then translated this knowledge to become similarly proficient in JavaScript in just an additional 2 weeks. Over the recent Christmas break, I self-taught myself TypeScript.
-
 #### Well-rounded communicator, team leader & project manager
 _During my career_, I headed up AAMI insurance's sponsorships at [Ogilvy Melbourne](ogilvy-melbourne), notably their annual, multi-million dollar sponsorship of the AFL (Aussie Rules Football). This role required delicate and collaborative management skills to navigate layers of stakeholders via our client & agency 'village', the broadcaster & the league itself to ensure our creative vision was being delivered whilst still hitting their goals. 2021 was our most effective season to date, elevating AAMI's presence to become synonymous with the footy.
 
 _As a developer_, during all projects, but especially in the [grumblebook](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) project, I ensured our team stuck to the Agile approach. This gave us the flexibility to adapt the project as we hit blockages, and I pushed for changing team resourcing to ensure the most important features were delivered and production ready.
+
+#### Fast Learner
+_During my career_, having not worked in social media before, and working in-house at [giffgaff](giffgaff) (a UK telco) I was tasked with improving their lead generating social adverts. I quickly taught myself how the back-end of Facebook & Instagram's ad platforms worked (i.e. how to plan & buy ads), as well as using online resources and Facebook workshops on how to create stand-out creative. The new ads achieved best in class results that year, based on Facebook's benchmarks.
+
+_As a developer_, I went from almost no coding experience to working with APIs with Ruby in just 8 weeks. I then translated this knowledge to become similarly proficient in JavaScript in just an additional 2 weeks. Over the recent Christmas break, I self-taught myself TypeScript.
 
 #### Creating Business Efficiency
 _During my career_, In leading [AAMI insurance’s](ogilvy-melbourne) social media advertising, I spear-headed a move away from high-churn, low-impact content to a quarterly briefing approach, and a judgement criteria, ensuring campaigns delivered against their overarching KPIs. This created better value for my clients, fewer, more interesting projects for my creative teams to work on (reducing team impact and fatigue) and more enjoyable content for our audience. Over the 3 years I worked on the brand, the results significantly improved year on year, ending with very high-scoring nationwide & sector-leading results.
