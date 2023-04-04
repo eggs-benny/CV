@@ -10,7 +10,7 @@ Coding and the tech world also really excite me on a personal level. I enjoy the
 
 The discipline, responsibility and attention to detail required from my career to date, paired with my natural empathic, analytical, logical approach provides a good basis for me to flourish as a junior developer, able to learn quickly and improve almost any working environment. I'd be keen to find a role that reciprocates what I have to offer, by demonstrating a focus on employee development, support and mentorship.
 
-To keep a version, or pass it on, here's my [1-pager CV](https://github.com/eggs-benny/eggs-benny/blob/master/benedict-smith-cv-230116.pdf)
+To keep a version, or pass it on, here's my [1-pager CV](Benedict Smith CV.pdf)
 
 ## STACK
 ![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,sequelize,heroku,jest&perline=4&theme=dark)
