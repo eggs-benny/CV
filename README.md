@@ -19,7 +19,6 @@ To keep a version, or pass it on, [here's my CV](https://github.com/eggs-benny/e
 
 | Name | Description | Discover | Stack | Build Time / Group |
 |---------------|-----------|------------|----|----------|
-| **votewatch** | An iOS & Android app aimed at making UK politics more transparent leveraging the House of Commons API | [app demo](https://youtu.be/jNPUt79UpsA?t=134), [repo](https://github.com/tomallens/votewatch) | React Native, Expo, PostgreSQL, Sequelize, Express, Node.JS | 8 days x 6 people |
 | **grumblebook** | A facebook clone where you can grumble with friends | [repo](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) | React, MongoDB, Mongoose, Express, Node JS, Cypress, Firebase | 10 days x 6 people |
 | **Chittr** | A clone of twitter built in Ruby | [repo](https://github.com/eggs-benny/chitter-challenge) | Ruby, ActiveRecord, Rails, PosgreSQL, CSS, HTML | 3 days x solo |
 | **Guardian News Reader** | A deployed front end site where you can read and search for Guardian news articles | [site](https://guardian-react-api.vercel.app/)| React, Node.JS | 3 days x solo
@@ -48,8 +47,6 @@ _As a developer_, whilst I haven't had a chance to test out my business efficien
 #### Delivering Innovation
 _During my career_, notably at The Outfit, I have had a demonstrable interest in delivering innovative campaigns. Whether it's creating live stunts in TV ad-breaks for [Assassin's Creed](https://www.youtube.com/watch?v=p87bJx5Dxzo) or [Cannes Gold award-winning](https://www.adnews.com.au/news/gold-lion-for-ogilvy-australia), data-driven road safety campaigns to reduce driver fatigue, I've been drawn to anything that's new & challenging. Whilst rewarding, these projects require single-minded dedication and demand the most of my organizational, problem-solving skillset to tackle challenges that don't have a pre-existing path.
 
-_As a developer_, in our final project at Makers, I wanted to build something different from what we'd seen before. With the group aligned, we therefore developed Votewatch, an app that gives the user the ability to see how their MP votes in the House of Commons, using the Commons API. This was the first time Makers students had created an app like this or used this kind of API. I also ensured that we pitched our presentation differently to our teams; as a product launch, rather than a project re-cap.
-
 #### Calm head & empathetic presence
 _During my career_ both as a freelancer, but also in other roles, I had to hit the ground running with new clients to quickly gain an in-depth understanding of the challenges their businesses faced, what problems needed to be solved and the culture that needed to shift. I have a reputation as _"the client whisperer"_ due to my calm and reassuring presence, and for quickly developing trusting relationships with my clients & colleagues in order to deliver interesting work while also beating business KPIs.
 
@@ -65,7 +62,7 @@ A selective 16-week bootcamp, one of the best in Europe with a 10% acceptance ra
 - **OOD & SOLID principles:** To ensure our code was clean, readable & easier to debug and refactor ([example](https://github.com/eggs-benny/bank_tech_test)).
 - **Databases:** Building databases and Create, Read, Update & Delete data using Postman, Postgresql, Sequelize, MongoDB & Ruby ORM.
 - **APIs:** Leveraging existing APIs (such as the Guardian or House of Commons) to power apps & webapps we built, as well as learning how to set up our own APIs.
-- **Full-stack environment:** We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) & [SERN](https://github.com/tomallens/votewatch).
+- **Full-stack environment:** We learnt to build both solo and group projects with functional front and back ends using stacks such as [MERN](https://github.com/eggs-benny/grumbleBook---an-acebook-facebook-clone) & SERN
 - **Language agnostic approach:** Although we developed in Ruby & JavaScript to a high standard, plus a supporting tech stack, we were also shown how to self-learn new languages and frameworks in short timescales.
 - **Agile:** Developing & practising an Agile workflow on team projects using in-depth planning (e.g. Excalidraw), tickets (Trello), sprints, retros (Miro), daily stand-ups and learning to adapt a project with time.
 - **Goal-directed learning:** Learning _how_ to learn was the actually most important lesson from this course. Setting goals, monitoring progress (in daily stand-ups) & reflecting (in weekly retros) made this learning experience efficient, enjoyable & effective.
