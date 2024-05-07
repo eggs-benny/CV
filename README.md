@@ -10,9 +10,6 @@ Coding and the tech world also really excite me on a personal level. I enjoy the
 
 The discipline, responsibility and attention to detail required from my career to date, paired with my natural empathic, analytical, logical approach provides a good basis for me to flourish as a junior developer, able to learn quickly and improve almost any working environment. I'd be keen to find a role that reciprocates what I have to offer, by demonstrating a focus on employee development, support and mentorship.
 
-## STACK
-![My Stack](https://skills.thijs.gg/icons?i=js,react,ts,mongodb,postgres,nodejs,ruby,html,css,sequelize,heroku,jest&perline=4&theme=dark)
-
 ## PROJECTS
 
 | Name | Description | Discover | Stack | Build Time / Group |
